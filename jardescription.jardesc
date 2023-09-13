@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+<jar path="G:/java/ATmon/ATmon.jar"/>
+<options buildIfNeeded="true" compress="true" descriptionLocation="/ATmon/jardescription.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" useSourceFolders="false"/>
+<manifest generateManifest="true" mainClassHandleIdentifier="=ATmon/src&lt;atmon{ATmon.java[ATmon" manifestLocation="/WWVBgen/Manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+<sealing sealJar="false">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+<file path="/ATmon/msoe-small.gif"/>
+<javaElement handleIdentifier="=ATmon/src"/>
+</selectedElements>
+</jardesc>
